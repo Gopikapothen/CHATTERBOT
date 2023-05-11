@@ -2,10 +2,10 @@
 Implementation Of a Chatterbot Within a Network Chatroom using NLTK in PYTHON
 
 # Aims and Objective
-A Student Advisory/Counselling Chatbot
-Will Learn From Their Preferences
-And Give the Most Appropriate Responses
-Network Client and Server System 
+1. A Student Advisory/Counselling Chatbot
+2. Will Learn From Their Preferences
+3. And Give the Most Appropriate Responses
+4. Network Client and Server System 
 
 # Research Gap
 1. Adjusting chatbot conversation to user personality and [AI based chatbots require continuous ongoing optimization, analysis and maintenance.]
